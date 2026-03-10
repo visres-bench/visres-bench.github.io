@@ -122,7 +122,7 @@ python -m lmms_eval \
   --batch_size 1
 ```
 
-See the [lmms-eval repository](https://github.com/EvolvingLMMs-Lab/lmms-eval) for supported models, task variants (e.g. by level or config), and full documentation.
+See the [lmms-eval repository](https://github.com/EvolvingLMMs-Lab/lmms-eval/tree/main/lmms_eval/tasks/visres_bench) for supported models, task variants (e.g. by level or config), and full documentation.
 
 ---
 
